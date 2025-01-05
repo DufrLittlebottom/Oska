@@ -1,0 +1,101 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.fill
+    {
+        height: 75px;
+    }
+
+a {
+    color: lavender;
+    padding: 0;
+    width
+}
+
+h2 {
+    color: cornflowerblue; text-align: center;
+    border: 10px dotted gold;
+    height: 220px;
+    width: 300px;
+    padding: 10px; 
+}
+
+.bluff {
+    color: cornflowerblue;
+    width: 250px;
+}
+
+.cat {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson
+    
+}
+
+.no {
+    width: 45px;
+    color: cornflowerblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+}
+
+.link {
+    border: groove gold;
+    height: 25px;
+    width: 250px;
+}
+
+li {
+    margin: 0px;
+}
+
+.header {
+    color: blue;
+}
+
+.list,
+.rank {
+    background-color: brown;
+}
+
+#powerful {
+    color: fuchsia;
+}
+
+#wonderful {
+    color: goldenrod;
+}
+
+.special {
+    font-family: Impact;
+}
+
+.special.wonderful {
+    font-family: cursive;
+}
+
+.list-item {
+   color: goldenrod; font-weight: 900; font-family: fantasy;
+}
+
+.oska {
+    color: crimson;
+}
+
+strong {
+    margin: 0;
+}
+
+em {
+    margin: 0;
+}
+
+/* This is how you make css comments */
+
+
